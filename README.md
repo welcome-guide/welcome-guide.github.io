@@ -1,4 +1,3 @@
-# Day-of-birth-finder [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/BolajiAyodeji-approved-brightgreen.svg)
+# Welcome Guide
 
-This script checks your Date of Birth and detects the Day of the Week you were born.<br>
-Demo [here](https://date-of-birth-finder.firebaseapp.com/)
+Les services à destination des personnes sans-abri à Strasbourg. Données issues du [guide précarité](http://codelico.67.free.fr/guide/2018_codelico_guide_p.pdf)

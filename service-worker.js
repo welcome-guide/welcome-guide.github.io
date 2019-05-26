@@ -28,11 +28,11 @@
         // If you have some build process for your site, perhaps that could 
         // generate the list of possible URLs that a user might load.               
                 '/', // do not remove this
-                '/code-lab-demo-master/index.html', //default
-                '/code-lab-demo-master/index.html?homescreen=1', //default
-                '/code-lab-demo-master/?homescreen=1', //default
-                '/code-lab-demo-master/assets/css/main.css',// configure as by your site ; just an example
-                '/code-lab-demo-master/images/*',// choose images to keep offline; just an example
+                '/index.html', //default
+                '/index.html?homescreen=1', //default
+                '/?homescreen=1', //default
+                '/assets/css/main.css',// configure as by your site ; just an example
+                '/images/*',// choose images to keep offline; just an example
         // Do not replace/delete/edit the manifest.js paths below
         //These are links to the extenal social media buttons that should be cached;
         // we have used twitter's as an example

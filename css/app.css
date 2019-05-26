@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins');
 body {
     margin: 0;
     min-width: 250px;
-    font-family: 'Poppins', sans-serif;
 }
 
 * {

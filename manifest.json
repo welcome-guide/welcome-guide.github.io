@@ -2,9 +2,9 @@
           "display": "standalone",
           "orientation":"portrait",
           "theme_color": "#fff",
-          "short_name": "DOB Finder",
-          "name": "Date of Birth Finder",
-          "description": "description or purpose of your progressive web app",
+          "short_name": "Welcome Guide",
+          "name": "Welcome Guide - Services aux personnes sans-abris - Strasbourg",
+          "description": "Les services aux sans-abris mis en place par les services publics et les associations à Strasbourg et alentours.",
           "lang": "en-US",
           "icons": [
           {
